@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shoesly/models/product.dart';
 import 'package:shoesly/widgets/review_tile.dart';
 import 'package:shoesly/services/cart_service.dart';
-import 'package:shoesly/screens/reviews_screen.dart';
 
 class ProductDetailScreen extends StatelessWidget {
   final CartService _cartService = CartService();

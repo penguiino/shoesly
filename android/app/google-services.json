@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:497029058932:android:1629cf401dc52d2fb45c21",
         "android_client_info": {
-          "package_name": "com.company.shoesly"
+          "package_name": "com.example.shoesly"
         }
       },
       "oauth_client": [],
