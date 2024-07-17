@@ -5,7 +5,7 @@ import 'package:shoesly/screens/checkout_screen.dart';
 import 'package:shoesly/screens/discover_screen.dart';
 import 'package:shoesly/screens/product_detail_screen.dart';
 import 'package:shoesly/screens/reviews_screen.dart';
-import 'package:shoesly/models/product.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
